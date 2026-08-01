@@ -6,6 +6,12 @@
 </p>
 <h1 align="center">Waveon</h1>
 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.sumith.waveon">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="160" />
+  </a>
+</p>
+
 ![Waveon - Turn every phone into a massive speaker](docs/app_feature_board.png)
 
 **Waveon** is a distributed audio playback engine built with Flutter. It allows multiple mobile devices to connect over a Local Area Network (LAN/Hotspot) and stream music in perfect synchronization, effectively turning a group of phones into a massive, decentralized speaker system.
